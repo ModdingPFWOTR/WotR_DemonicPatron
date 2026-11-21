@@ -1,0 +1,13 @@
+{
+  "Id": "DemonicPatron",
+  "DisplayName": "Demonic Patron",
+  "Author": "Picninim piq",
+  "Version": "0.1.0",
+  "ManagerVersion": "0.23.0",
+  "GameVersion": "2.7.0",
+  "Requirements": [],
+  "AssemblyName": "DemonicPatron.dll",
+  "EntryMethod": "DemonicPatron.Main.Load",
+  "HomePage": "",
+  "Repository": ""
+}
